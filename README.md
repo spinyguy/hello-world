@@ -1,2 +1,2 @@
 # hello-world
-This is simply the well-known "Hello World" tutorial from guides.github.com
+Hi everyone! I'm a new aspiring programmer and beginner web developer. Will I make it? Who knows...
